@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student at University of Vavuniya<br>👯 Following BICT Hons Degree<br>🤝 Looking for internships in UI/UX,Animation,Front-End Developing,Full-Stack Developing<br>🌱 I’m currently learning React , Node.js , MongoDB , Figma<br>💬 Ask me about UI Designing<br>⚡ The thing I'm mostly passionate about is Animation & UI/UX
+🔭 I’m a student at University of Vavuniya<br>👯 Following Bachelor of Information & Communication Technology Hons Degree<br>🤝 Looking for internships in UI/UX,Animation,Front-End Developing,Full-Stack Developing<br>🌱 I’m currently learning React , Node.js , MongoDB , Figma<br>💬 Ask me about UI Designing<br>⚡ The thing I'm mostly passionate about is Animation & UI/UX
 
 
 ## 🌐 Socials:
